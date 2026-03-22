@@ -1,0 +1,2 @@
+# Ox-Inventory-for-QBCore-2025-FiveM-Tutorial
+Thi video shows how to install Ox Inventory for QBCore in FiveM 2025 step by step  It covers  QBCore installation Ox Inventory setup Ox Lib &amp; Ox Target Community Bridge integration Fixes for common errors Basic configuration  Perfect for beginners or upgrading your server By the end, you’ll have a fully working QBCore server ready for customization
