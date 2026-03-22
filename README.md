@@ -51,13 +51,6 @@ These additions simplify image use for icons and embedded content without extra 
 ox_inventory
 A complete inventory system for FiveM, implementing items, weapons, shops, and more without any strict framework dependency.
 
-   
-
-📚 Documentation
-https://coxdocs.dev/ox_inventory
-
-💾 Download
-https://github.com/TheOrderFivem/ox_inventory/releases/latest/download/ox_inventory.zip
 
 📺 Install Guide
 https://www.youtube.com/watch?v=g1_ryUZSOGA
